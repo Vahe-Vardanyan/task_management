@@ -18,8 +18,7 @@ This is a simple Task Management System built with Node.js, Express, and MySQL. 
 
 - **Node.js**: Server-side JavaScript runtime
 - **Express.js**: Web framework for building REST APIs
-- **MySQL**: Relational database for data storage
-- **Swagger**: API documentation tool
+- **MongoDb**: Relational database for data storage
 - **Mocha and Chai**: Testing frameworks for unit tests
 
 ## Prerequisites
