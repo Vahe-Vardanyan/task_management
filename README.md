@@ -26,7 +26,7 @@ This is a simple Task Management System built with Node.js, Express, and MySQL. 
 Before you begin, ensure you have met the following requirements:
 
 - Node.js and npm installed on your machine.
-- MySQL server installed and running.
+- MongoDb server installed and running.
 - An IDE or text editor such as Visual Studio Code.
 
 ## Getting Started
